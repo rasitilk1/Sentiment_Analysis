@@ -37,7 +37,7 @@ The model also uses the stored data in the corresponding csv file to predict the
 
 ## Acknowledgments
 ### References
-- [Introduction to Udacity Self-Driving Car Simulator](https://towardsdatascience.com/introduction-to-udacity-self-driving-car-simulator-4d78198d301d)
+- [https://cs224d.stanford.edu/reports/TimmarajuAditya.pdf](https://cs224d.stanford.edu/reports/TimmarajuAditya.pdf)
 - [Text sentiment analysis based on long short-term memory](https://ieeexplore.ieee.org/document/7778967)
 
 
