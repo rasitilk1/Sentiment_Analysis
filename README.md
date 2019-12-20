@@ -37,7 +37,7 @@ The model also uses the stored data in the corresponding csv file to predict the
 
 ## Acknowledgments
 ### References
-- [https://cs224d.stanford.edu/reports/TimmarajuAditya.pdf](https://cs224d.stanford.edu/reports/TimmarajuAditya.pdf)
+- [Sentiment Analysis on Movie Reviews Recurrent Neural Network Architectures](https://cs224d.stanford.edu/reports/TimmarajuAditya.pdf)
 - [Text sentiment analysis based on long short-term memory](https://ieeexplore.ieee.org/document/7778967)
 
 
