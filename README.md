@@ -4,6 +4,11 @@ LSTM and GRU based Approach to classify the sentiments of the IMDb movie reviews
 The project makes use of the Different approaches namely randomforest,LSTM or GRU to perform the sentimental analysis of the IMDb Dataset and hence analyse which Technique fits the most.
 
 It includes the use of different techniques such as (Porter stemming, Stop words) for pre-processing of data and training the model using  Long short-term memory(LSTM) or Gated recurrent unit(GRU) with an training accuracy of 92.6.
+
+### RESULT
+   LSTM and GRU based models showed state of art results in sentiment analysis of large reviews.
+   Accuracy scores can be found [here](https://github.com/venkma/Sentiment_Analysis/blob/master/scorefinal.png)
+
 The model also uses the stored data in the corresponding csv file to predict the sentiment of a random review collected from web.
 
   Dataset for training the data can be found at [Training Data](https://drive.google.com/file/d/1O72Wo3BKxfytcqwE27_EL4ofHn99tcps/view?usp=sharing).The files also include a trained model by selecting (porter steeming for preprocessing and GRU based approach to tain the model) is **_RNN GRU modelPorter Stemming.h5_**. Below is the detailed description about how the model was trained, preprocessing that was done on data and its predictions on [Testing Data](https://drive.google.com/file/d/1-uMKaMsp6QY8NdsMXxmh1dTl6hlfgtAk/view?usp=sharing) and its accuracy in predicting the sentiment analysis of new reviews from web.
